@@ -8,7 +8,10 @@ public class Company {
 		 this.name=name;
 		 this.type=type;
 		 System.out.println(name);
+
+		 
 		 System.out.println(type);
 	 }
 
 }
+   
