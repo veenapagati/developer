@@ -1,0 +1,18 @@
+
+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
+
+java
+git push https://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@github.com/veenapagati/developer.git main
+
+
+web
+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
+
+git push https://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@github.com/veenapagati/WEB-Technology.git main
+
+SQL
+https://github.com/veenapagati/SQL.git
+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
+
+
+git push https://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@github.com/veenapagati/SQL.git main
